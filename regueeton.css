@@ -1,0 +1,12 @@
+img {
+    display: block;
+    margin: auto; }
+
+
+    iframe {
+        display: block;
+        margin: auto; 
+        width: 100%;
+        max-width: 800px;
+        border-radius: 10px;}
+        
